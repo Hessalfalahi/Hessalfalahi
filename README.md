@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Hessa Alfalahi
 
-<!--
-**Hessalfalahi/Hessalfalahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's student in Artificial Intelligence at Abu Dhabi University  
+💻 AI Specialist | Focused on OCR, LLMs, and Generative AI  
+🚀 Passionate about solving real-world problems with practical AI solutions
 
-Here are some ideas to get you started:
+### 🔧 Technologies I Work With:
+- Python, Jupyter Notebooks
+- Hugging Face Transformers, Tesseract OCR
+- Microsoft Azure (basic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Featured Projects:
+- [Generative AI & OCR Examples](https://github.com/Hessalfalahi/Generatie-ai-textgen)
